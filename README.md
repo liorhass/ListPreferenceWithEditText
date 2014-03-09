@@ -19,9 +19,11 @@ At this point the user can input text in the custom field, and then click the "O
 
 ##Usage
 You should incorporate three files into your project:
+
 `src/com/liorhass/ListPreferenceWithEditText.java`
 `res/layout/list_preference_row_normal.xml`
 `res/layout/list_preference_row_with_edit_text.xml`
+
 Then you can use the `ListPreferenceWithEditText` class just as you would use Android’s build-in `ListPreference`.
 
 Here is an example of res/xml/preferences.xml file that contains a `ListPreferenceWithEditText`:
