@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <com.liorhass.ListPreferenceWithEditText
+        android:key="pref_baudrate"
+        android:title="@string/pref_baudrate_title"
+        android:dialogTitle="@string/pref_baudrate_title"
+        android:entries="@array/pref_baudrate_titles"
+        android:entryValues="@array/pref_baudrate_values"
+        android:defaultValue="@string/pref_baudrate_default"
+        android:descendantFocusability="afterDescendants"
+        />
+
+</PreferenceScreen>

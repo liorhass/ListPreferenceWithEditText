@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Example App</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="action_settings">Settings</string>
+    <string name="ok">OK</string>
+    
+    <string name="pref_baudrate_title">Baud Rate</string>
+    <string name="pref_baudrate_default">115200</string>
+    <string name="baudrate_2400">2400</string>
+    <string name="baudrate_4800">4800</string>
+    <string name="baudrate_9600">9600</string>
+    <string name="baudrate_19200">19200</string>
+    <string name="baudrate_28800">28800</string>
+    <string name="baudrate_38400">38400</string>
+    <string name="baudrate_57600">57600</string>
+    <string name="baudrate_115200">115200</string>
+    
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Baudrate ListPreference -->
+    <string-array name="pref_baudrate_titles">
+        <item>@string/baudrate_2400</item>
+        <item>@string/baudrate_4800</item>
+        <item>@string/baudrate_9600</item>
+        <item>@string/baudrate_19200</item>
+        <item>@string/baudrate_28800</item>
+        <item>@string/baudrate_38400</item>
+        <item>@string/baudrate_57600</item>
+        <item>@string/baudrate_115200</item>
+        <item>place_holder_for_custom_baud_field</item>
+    </string-array>
+    <string-array name="pref_baudrate_values">
+        <item>2400</item>
+        <item>4800</item>
+        <item>9600</item>
+        <item>19200</item>
+        <item>28800</item>
+        <item>38400</item>
+        <item>57600</item>
+        <item>115200</item>
+        <item>10000</item> <!-- Default value of custom-baud field -->
+    </string-array>
+
+</resources>
+ 
