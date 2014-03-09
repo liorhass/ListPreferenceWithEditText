@@ -101,7 +101,7 @@ res/layout/list_preference_row_with_edit_text.xml::
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_weight="1"
-    android:textSize="16sp"
+        android:textSize="16sp"
         android:inputType="number"
         />
 
